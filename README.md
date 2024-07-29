@@ -7,11 +7,9 @@
 <h2>N/A</h2>
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Jewel Clarke-Henry | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jewel Clarke-Henry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[twitter]: N/A
-[linkedin]: https://www.linkedin.com/in/jewel-clarke-henry/
+<a href="https://linkedin.com/in/jewel-clarke-henry" target="_blank">
+    <img align="left" alt="Jewel Clarke-Henry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <!--
 **Taeheechul/Taeheechul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
